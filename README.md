@@ -1,4 +1,4 @@
-# 📂 OnTheHitlist Central Repository
+# 📂 Central Repository
 
 Welcome to my personal projects repository! To keep each project's codebase completely clean, isolated, and focused, each application is hosted on its own dedicated git branch.
 
